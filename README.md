@@ -1,7 +1,7 @@
 # resumo-lab-certificacao-az900
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
-Até o momento, foi passado informações como:
+Até o momento, foram passadas as seguintes informações:
   * o que é cloud?
   * quais os benefícios da cloud?
   * em quais contextos usamos cloud?
