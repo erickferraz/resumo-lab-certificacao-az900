@@ -10,4 +10,10 @@ Até o momento, foram passadas as seguintes informações:
   * apresentação do painel do Azure e uma pequena explanação sobre alguns serviços;
   * apresentação do desafio e como realizá-lo;
 
+# Tópicos da aula de hoje.
+  * Escalabilidade;
+  * Confiabilidade;
+  * Alta disponibilidade;
+  * Segurança;
+  * SLA;
 
